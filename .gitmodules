@@ -1,0 +1,4 @@
+[submodule "airspace-hugo"]
+	path = airspace-hugo
+	url = https://github.com/themefisher/airspace-hugo.git
+
