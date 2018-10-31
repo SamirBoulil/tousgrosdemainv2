@@ -31,3 +31,7 @@
 .service-item > img {
     max-width: 250px;
 }
+
+.navbar-brand>img {
+    max-width: 300px;
+}
