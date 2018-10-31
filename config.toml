@@ -1,0 +1,110 @@
+baseURL = "http://tousgrosdemain.com/"
+languageCode = "fr-fr"
+title = "Tous gros demain ?"
+theme = "airspace-hugo"
+
+[menu]
+
+  [[menu.header]]
+    weight = 2
+    name = "L'association"
+    url = "/association"
+  [[menu.header]]
+    weight = 3
+    name = "Le livre"
+    url = "/livre"
+  [[menu.header]]
+    weight = 4
+    name = "Le spectable"
+    url = "/spectacle"
+  [[menu.header]]
+    weight = 5
+    name = "Réservations"
+    url = "/reservations"
+  [[menu.header]]
+    weight = 6
+    name = "Partenaires"
+    url = "/partenaires"
+#  [[menu.header]]
+#    weight = 7
+#    name = "Nous contacter"
+#    url = "/contact"
+
+#  [[menu.footer]]
+#    weight = 1
+#    name = "About us"
+#    url = "#"
+#  [[menu.footer]]
+#    weight = 2
+#    name = "Contact us"
+#    url = "#"
+#  [[menu.footer]]
+#    weight = 3
+#    name = "How it works"
+#    url = "#"
+#  [[menu.footer]]
+#    weight = 4
+#    name = "Blog"
+#    url = "#"
+#  [[menu.footer]]
+#    weight = 5
+#    name = "Terms"
+#    url = "#"
+
+# The site's parameters
+[params]
+
+  # If you want to remove the copyright text you need a Themefisher license.
+  # This license is offered with a 50% discount for all Hugo users.
+  # For information see https://github.com/gohugoio/hugoThemes/issues/260
+
+  dateFormat = "6 January 2006"
+
+  home = "Accueil"
+
+  [params.slider]
+    enable = false
+    title = ""
+    subtitle = ""
+
+  [params.wrapper]
+    enable = true
+    title = "Pièce de théâtre sur la chaîne alimentaire en galère"
+    italic = "Rejoignez-nous!"
+    paragraph = "Le 1er décembre à 20h30 à la salle de la Gobinière à Orvault pour la 16ème représentation de la pièce ! Réservations : tousgrosdemain@gmail.com"
+
+#  [params.blog]
+#    enable = true
+#    title = "Get The Latest On What We're doing"
+#    subtitle = "Catch up with us, anytime and anywhere"
+
+#  [params.feature]
+#    enable = true
+#    title = "We believe in great ideas"
+#    content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+#    [params.feature.button]
+#      caption = "View Works"
+#      url = "#"
+
+#  [params.call]
+#    enable = true
+#    title = "We design delightful digital experiences."
+#    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+
+#  [params.contact]
+#    enable = true
+#    title = "Drop us a note"
+#    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+#    [params.contact.form]
+#      name = "Your name"
+#      email = "Your email"
+#      subject = "Your subject"
+#      message = "Your message"
+#      button = "Send message"
+#    [params.contact.box]
+#      title = "Stop by for a visit"
+#      address = "North Main Street, Brooklyn Australia"
+#      email = "Email: contact@mail.com"
+#      phone = "Phone: +88 01672 506 744"
+#    [params.contact.gmaps]
+#      title = "We Also Count in Google Maps"

@@ -1,0 +1,41 @@
+enable: true
+title: Partenaires
+imageHeader: /img/header-parternaires.jpg
+
+subtitle: >
+  Grâce à l’aide des partenaires, nous pouvons avancer et mettre sur les planches ce qui vagabondait dans nos têtes.
+  Merci à tous nos partenaires sans qui tout cela ne serait pas possible. 
+content:
+
+  - icon: /img/partenaire-nuivi.jpg
+    name: Nuivi
+    text: >
+
+  - icon: /img/partenaire-compalia.jpg
+    name: Compalia
+    text: >
+
+  - icon: /img/partenaire-dbam.gif
+    name: Dbam
+    text: >
+
+  - icon: /img/partenaire-therascience.jpg
+    name: Therascience
+    text: >
+
+  - icon: /img/partenaire-axone.jpg
+    name: Axone
+    text: >
+
+  - icon: /img/partenaire-healthprevent.png
+    name: health Prevent
+    text: >
+
+  - icon: /img/partenaire-insudiet.png
+    name: Insudiet
+    text: >
+
+  - icon: /img/partenaire-berbolistique.jpg
+    name: Berbolistique
+    text: >
+
