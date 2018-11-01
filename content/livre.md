@@ -48,6 +48,6 @@ La démarche Bleu-Blanc-Cœur est née de simples observations faites par un él
 + - la qualité des produits est rigoureusement suivie et mesurée, du champ à l’assiette,
 + - les agriculteurs engagés dans la démarche adoptent des modes de productions favorables à la biodiversité et à l’environnement,
 + - les éleveurs nourrissent leurs animaux avec une alimentation diversifiée et contrôlée ; ce qui contribue à les maintenir en bonne santé,
-+ - la qualité organoleptique des produits est reconnue : des viandes plus tendres et savoureuses, du beurre naturellement plus tartinable, des fromages plus onctueux et goûteux, etc…
++ - la qualité organoleptique des produits est reconnue : des viandes plus tendres et savoureuses, du beurre naturellement plus tartinable, des fromages plus onctueux et goûteux, etc.
 
 Retrouvez **[la liste des produits Bleu-Blanc-Coeur](https://ouionatousledroitdebienmanger.fr/Carte-de-France-des-Produits-Bleu-Blanc-Coeur "Liste des produits Bleu-Blanc-Coeur")**
