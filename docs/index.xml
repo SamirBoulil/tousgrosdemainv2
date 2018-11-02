@@ -22,6 +22,15 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title>Mon nouvel article de ouf</title>
+      <link>http://tousgrosdemain.com/blog/mon_nouvel_article/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>http://tousgrosdemain.com/blog/mon_nouvel_article/</guid>
+      <description>Titre de mon article Les nanas zero zero dechet, sont folles!</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>http://tousgrosdemain.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -74,7 +83,7 @@ Pour ce faire, il a trouvé de l’aide, auprès d’une comédienne canadienne,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://tousgrosdemain.com/reservations/</guid>
-      <description>Réservations Tarifs  10 € 6 € (étudiants, chômeurs, et enfants de moins de 12 ans)  Pour réserver, envoyez-nous un e-mail à tousgrosdemain@gmail.com précisant le nombre de places adultes et enfants que vous voulez réserver. Votre réservation sera effective une fois le paiement reçu à l’adresse de l’association (Tous Gros Demain, 118 rue de la Corniche, 44700 Orvault).</description>
+      <description>Réservations Tarifs  10 € 6 € (étudiants, chômeurs, et enfants de moins de 12 ans)  Pour réserver, envoyez-nous un e-mail à tousgrosdemain@gmail.com précisant le nombre de places adultes et enfants que vous voulez réserver. Votre réservation sera effective une fois le paiement reçu à l’adresse de l’association (Tous Gros Demain, 156 Avenue Félix Vincent, 44700 Orvault).</description>
     </item>
     
   </channel>

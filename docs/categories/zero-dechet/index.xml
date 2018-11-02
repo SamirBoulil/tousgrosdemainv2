@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zero Dechet on Tous gros demain ?</title>
+    <link>http://tousgrosdemain.com/categories/zero-dechet/</link>
+    <description>Recent content in Zero Dechet on Tous gros demain ?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="http://tousgrosdemain.com/categories/zero-dechet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mon nouvel article de ouf</title>
+      <link>http://tousgrosdemain.com/blog/mon_nouvel_article/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>http://tousgrosdemain.com/blog/mon_nouvel_article/</guid>
+      <description>Titre de mon article Les nanas zero zero dechet, sont folles!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://tousgrosdemain.com/blog/mon_nouvel_article/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tousgrosdemain.com/blog/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
@@ -61,6 +66,18 @@
   
   <url>
     <loc>http://tousgrosdemain.com/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tousgrosdemain.com/tags/zero-dechet/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tousgrosdemain.com/categories/zero-dechet/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>

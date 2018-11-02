@@ -21,5 +21,14 @@
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
+    <item>
+      <title>Mon nouvel article de ouf</title>
+      <link>http://tousgrosdemain.com/blog/mon_nouvel_article/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>http://tousgrosdemain.com/blog/mon_nouvel_article/</guid>
+      <description>Titre de mon article Les nanas zero zero dechet, sont folles!</description>
+    </item>
+    
   </channel>
 </rss>
