@@ -28,6 +28,10 @@ publishDir= "docs"
     url = "/partenaires"
 #  [[menu.header]]
 #    weight = 7
+#    name = "Blog"
+#    url = "/blog"
+#  [[menu.header]]
+#    weight = 7
 #    name = "Nous contacter"
 #    url = "/contact"
 
@@ -74,10 +78,10 @@ publishDir= "docs"
     italic = "Rejoignez-nous!"
     paragraph = "Le 1er décembre à 20h30 à la salle de la Gobinière à Orvault pour la 16ème représentation de la pièce ! Réservations : tousgrosdemain@gmail.com"
 
-#  [params.blog]
-#    enable = true
-#    title = "Get The Latest On What We're doing"
-#    subtitle = "Catch up with us, anytime and anywhere"
+  [params.blog]
+    enable = true
+    title = "Blog"
+    subtitle = "Suivez l'aventure de tous gros demain sur notre blog !"
 
 #  [params.feature]
 #    enable = true
