@@ -1,3 +1,16 @@
+/* Header*/
+.navbar-brand>img {
+    max-width: 300px;
+}
+
+.navbar-header > .navbar-brand {
+    position: absolute;
+}
+#global-header {
+    -webkit-background-size: contain;
+    background-size: contain;
+}
+
 #h1 {
     margin-bottom: 1.2em;
 }
@@ -30,8 +43,4 @@
 
 .service-item > img {
     max-width: 250px;
-}
-
-.navbar-brand>img {
-    max-width: 300px;
 }
