@@ -26,10 +26,10 @@ publishDir= "docs"
     weight = 6
     name = "Partenaires"
     url = "/partenaires"
-  [[menu.header]]
-    weight = 7
-    name = "Blog"
-    url = "/blog"
+#  [[menu.header]]
+#    weight = 7
+#    name = "Blog"
+#    url = "/blog"
 #  [[menu.header]]
 #    weight = 7
 #    name = "Nous contacter"
