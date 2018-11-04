@@ -10,14 +10,5 @@
 	<atom:link href="http://tousgrosdemain.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Zero Dechet</title>
-      <link>http://tousgrosdemain.com/categories/zero-dechet/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>http://tousgrosdemain.com/categories/zero-dechet/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
