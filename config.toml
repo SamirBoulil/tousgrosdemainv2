@@ -76,7 +76,7 @@ publishDir= "docs"
     enable = true
     title = "Pièce de théâtre sur la chaîne alimentaire en galère"
     italic = "Rejoignez-nous!"
-    paragraph = "Le 1er décembre à 20h30 à la salle de la Gobinière à Orvault pour la 16ème représentation de la pièce ! Réservations : tousgrosdemain@gmail.com"
+    paragraph = "Le 12 janvier 2020 à 15h à la salle de la Gobinière à Orvault pour la 16ème représentation de la pièce ! Réservations : tousgrosdemain@gmail.com"
 
   [params.blog]
     enable = true
