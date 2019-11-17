@@ -1,4 +1,4 @@
-baseURL = "http://tousgrosdemain.com/"
+baseURL = "https://tousgrosdemain.com/"
 languageCode = "fr-fr"
 title = "Tous gros demain ?"
 theme = "airspace-hugo"
