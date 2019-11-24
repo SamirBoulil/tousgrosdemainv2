@@ -10,6 +10,7 @@ install:
 
 # Build the website
 script:
+  - binaries/hugo version
   - binaries/hugo
 
 # Deploy to GitHub pages
