@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tous gros demain ?</title>
+    <link>https://tousgrosdemain.com/</link>
+    <description>Recent content on Tous gros demain ?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="https://tousgrosdemain.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tousgrosdemain.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tousgrosdemain.com/contact/</guid>
+      <description>hello world</description>
+    </item>
+    
+    <item>
+      <title>L&#39;association</title>
+      <link>https://tousgrosdemain.com/association/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tousgrosdemain.com/association/</guid>
+      <description>L&amp;rsquo;association Une petite présentation s’impose : Tout est parti d’interrogations. Tout a commencé avec la montée en puissance de la mondialisation de la « mal-bouffe ». Tout a réellement débuté grâce à un livre qui ne retient pas ses mots et qui dit enfin ce qu’on pensait tout bas, et même ce à quoi on ne pensait pas. Un livre qui a fait naître un projet un peu fou dans la tête d’un médecin nantais.</description>
+    </item>
+    
+    <item>
+      <title>Le livre</title>
+      <link>https://tousgrosdemain.com/livre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tousgrosdemain.com/livre/</guid>
+      <description>Le livre: TOUS GROS DEMAIN ? 40 ans de mensonges, 10 kilos de surpoids C’est à la lecture de ce livre que le projet est né dans la tête du Dr Thierry Guicheteau. Ce livre est le fil conducteur de la pièce, sa source, son inspiration.
+L’auteur, Pierre Weill, chercheur et agronome, travaille depuis plus de vingt ans sur le lien entre modes de production agricole et santé. Il a signé de nombreux articles scientifiques sur le sujet.</description>
+    </item>
+    
+    <item>
+      <title>Le spectacle</title>
+      <link>https://tousgrosdemain.com/spectacle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tousgrosdemain.com/spectacle/</guid>
+      <description>Le spectacle Le Dr Thierry Guicheteau, médecin généraliste à Orvault est à la base de ce projet théâtral. Après avoir lu le livre de Pierre Weill « TOUS GROS DEMAIN ? », il a rêvé que les personnages du livre prennent vie afin de tenter de faire passer leurs messages au plus grand nombre de personnes.
+Pour ce faire, il a trouvé de l’aide, auprès d’une comédienne canadienne, rencontrée par hasard dans un avion entre le Canada et la France en septembre 2011, Denise Guénette.</description>
+    </item>
+    
+    <item>
+      <title>Partenaires</title>
+      <link>https://tousgrosdemain.com/partenaires/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tousgrosdemain.com/partenaires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Réservations</title>
+      <link>https://tousgrosdemain.com/reservations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tousgrosdemain.com/reservations/</guid>
+      <description>Réservations Tarifs  10 € 6 € (étudiants, chômeurs, et enfants de moins de 12 ans)  Pour réserver, envoyez-nous un e-mail à tousgrosdemain@gmail.com précisant le nombre de places adultes et enfants que vous voulez réserver. Votre réservation sera effective une fois le paiement reçu à l’adresse de l’association (Tous Gros Demain, 156 Avenue Félix Vincent, 44700 Orvault).</description>
+    </item>
+    
+  </channel>
+</rss>

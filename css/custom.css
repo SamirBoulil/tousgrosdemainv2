@@ -1,0 +1,46 @@
+/* Header*/
+.navbar-brand>img {
+    max-width: 300px;
+}
+
+.navbar-header > .navbar-brand {
+    position: absolute;
+}
+#global-header {
+    -webkit-background-size: contain;
+    background-size: contain;
+}
+
+#h1 {
+    margin-bottom: 1.2em;
+}
+
+.center-image > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.center-image > figcaption {
+    text-align: center;
+}
+
+.citation {
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 200px;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+.header-image {
+    height: 400px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.service-item > img {
+    max-width: 250px;
+}
