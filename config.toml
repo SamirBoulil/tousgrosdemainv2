@@ -76,9 +76,9 @@ publishDir= "docs"
     enable = true
     title = "Pièce de théâtre sur la chaîne alimentaire en galère"
     italic = "Rejoignez-nous!"
-    paragraph = "Le 2 Octobre 2021 à 20h30 à la salle de la Gobinière à Orvault pour la représentation de la pièce ! Réservations : tousgrosdemain@gmail.com"
+    paragraph = "Réservations disponible par mail : tousgrosdemain@gmail.com"
     dates = [
-      # {date = "Le 14 et 15 décembre entre 17h30 et 18h", venue ="au théâtre de la Gobinière à Orvault", description  = "Extrait de la pièce dans le cadre du forum \"Plus belles nos vies\""},
+      {date = "Le 2 Octobre 2021 à 20h30", venue ="au théâtre de la Gobinière à Orvault", description  = "représentation de la pièce \"Tous gros demain ?\""}
       # {date = "Le 12 janvier 2020 à 15h", venue ="au théâtre de la Gobinière à Orvault", description  = "pour la 16ème représentation de la pièce !"},
       # {date = "Le 16 mai 2020 à 20h30", venue ="au théâtre de la Gobinière à Orvault", description  = "représentation de la pièce \"Tous gros demain ?\""}
     ]
