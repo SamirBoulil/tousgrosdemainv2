@@ -16,7 +16,7 @@ publishDir= "docs"
     url = "/livre"
   [[menu.header]]
     weight = 4
-    name = "Le spectable"
+    name = "Le spectacle"
     url = "/spectacle"
   [[menu.header]]
     weight = 5
