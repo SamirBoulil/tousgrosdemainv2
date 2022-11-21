@@ -78,7 +78,7 @@ publishDir= "docs"
     italic = "Rejoignez-nous!"
     paragraph = "Réservations disponible par mail : tousgrosdemain@gmail.com"
     dates = [
-      {date = "Le 2 Octobre 2022 à 20h30", venue ="au théâtre de la Gobinière à Orvault", description  = "représentation de la pièce \"Tous gros demain ?\""}
+      {date = "Le 7 Janvier 2023 à 20h30", venue ="au théâtre de la Gobinière à Orvault", description  = "représentation de la pièce \"Tous gros demain ?\""}
       # {date = "Le 2 Octobre 2021 à 20h30", venue ="au théâtre de la Gobinière à Orvault", description  = "représentation de la pièce \"Tous gros demain ?\""}
       # {date = "Le 12 janvier 2020 à 15h", venue ="au théâtre de la Gobinière à Orvault", description  = "pour la 16ème représentation de la pièce !"},
       # {date = "Le 16 mai 2020 à 20h30", venue ="au théâtre de la Gobinière à Orvault", description  = "représentation de la pièce \"Tous gros demain ?\""}
